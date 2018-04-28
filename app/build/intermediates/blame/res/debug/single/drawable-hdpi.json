@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\tijiao\\BluetoothPrinter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\tijiao\\BluetoothPrinter\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\tijiao\\BluetoothPrinter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\authorize_huiyuan.png",
+        "source": "D:\\tijiao\\BluetoothPrinter\\app\\src\\main\\res\\drawable-hdpi\\authorize_huiyuan.png"
+    },
+    {
+        "merged": "D:\\tijiao\\BluetoothPrinter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\printer.png",
+        "source": "D:\\tijiao\\BluetoothPrinter\\app\\src\\main\\res\\drawable-hdpi\\printer.png"
+    }
+]

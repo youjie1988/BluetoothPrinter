@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\code\bluetoothprinter1\app\libs\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cba0b93b0072105d808ef7a00a107a4eb97874e7">
+        <dex dex="D:\code\bluetoothprinter1\app\build\intermediates\pre-dexed\debug\core_f46ab71555c1b791aa282cf390bc380d6878e8dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tijiao\BluetoothPrinter\app\libs\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cba0b93b0072105d808ef7a00a107a4eb97874e7">
+        <dex dex="D:\tijiao\BluetoothPrinter\app\build\intermediates\pre-dexed\debug\core_93538fcdb2f74fe12deeeb73fec4094085578cd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\youjie\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\code\bluetoothprinter1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_53ccdb16f3b1d96a4efac18c87fa7c40531ffd57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tijiao\BluetoothPrinter\app\libs\WeiposSDKII-bin-2.1707032.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf471983f3fca7ab3971925778907264f6ba1396">
+        <dex dex="D:\tijiao\BluetoothPrinter\app\build\intermediates\pre-dexed\debug\WeiposSDKII-bin-2.1707032_9320531b265333a399568f7d89e219b8d621b726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\code\bluetoothprinter1\app\libs\WeiposSDKII-bin-2.1707032.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf471983f3fca7ab3971925778907264f6ba1396">
+        <dex dex="D:\code\bluetoothprinter1\app\build\intermediates\pre-dexed\debug\WeiposSDKII-bin-2.1707032_e871ce2703336444cba3c04ad6f33b9a80157ce8.jar" />
+    </item>
+
+</items>
